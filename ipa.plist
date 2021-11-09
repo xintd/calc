@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>live.yremp.wyyyy</string>
+                     <string>live.yremp.calc+</string>
                      <key>bundle-version</key>
-                    <string>4.3.5</string>
+                    <string>2.4.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>wyyyy</string>
+                    <string>calc+ 2.4.2</string>
                 </dict>
             </dict>
         </array>
